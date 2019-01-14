@@ -1,3 +1,7 @@
+# Korok map for BotW
+
+
+
 ## Credit
 - Base Korok data: [Zelda dungeon interactive map](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map), [raw korok data](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/markers/seeds.json)
 - Specs numbering system: Various members of the SpecsnStats community
