@@ -104,7 +104,7 @@
 			var southWest = map.unproject([-12000, 10000], 0);
 			var northEast = map.unproject([12000, -10000], 0);
 			var bounds = new L.LatLngBounds(southWest, northEast);
-			L.imageOverlay('BotW-Map-Grid.png', bounds).addTo(map);
+			L.imageOverlay('BotW-Map-min.png', bounds).addTo(map);
 			map.setMaxBounds(bounds);
 			
 			var korokIcon = L.icon({
