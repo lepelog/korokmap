@@ -116,7 +116,7 @@
 	        });
 			$(()=> {
 				var locationNames = ['Hebra', 'Tabantha', 'Ridgelands', 'Woodland', 'Akkala', 'Central', 'Lake', 'Eldin', 'Dueling Peaks', 'Wasteland', 'Gerudo', 'Necludia', 'Faron', 'Plateau', 'Castle', 'Lanayru'].sort();
-				var listHtml = locationNames.map(renderListItem).join("") + allkoroktypes.map(renderListItem).join("");
+				var listHtml = '<li>Regions:</li>' + locationNames.map(renderListItem).join("") + '<li>Korok Types:</li>' + allkoroktypes.filter((t)=>t).map(renderListItem).join("");
 
 				$('#sidebar > ul').append(listHtml);
 				var markers = {};
@@ -209,8 +209,12 @@
 				return s;
 			};
 			function korokToMarker(korok) {
+			    var additionalInfo = '<br>' + korok.region + ", " + korok.type;
+			    if (korok.comment) {
+			        additionalInfo += '(' + korok.comment + ')';
+		        }
 			    return L.marker(curkorok.coords[0], {title: korok.id + ", " + korok.specsID + " (" + korok.region + ", " + korok.type + ")", icon: korokIcon})
-		                 .bindPopup('<a target="_blank" href="https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id='+curkorok.id+'">'+curkorok.id+'</a>')
+		                 .bindPopup('<a target="_blank" href="https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id='+curkorok.id+'">'+curkorok.id+'</a>' + additionalInfo)
 		    }
 		</script>
 	</body>
