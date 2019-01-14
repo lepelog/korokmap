@@ -1,7 +1,7 @@
 Korok #,Type,Additional Info
 1,Dive,
-2,,
-3,,
+2,Lift the Rock,
+3,Cube Puzzle,
 4,Flower Trail,
 5,Pinwheel Balloons,
 6,Roll a Boulder,
@@ -25,72 +25,72 @@ Korok #,Type,Additional Info
 24,Ball and Chain,Stump
 25,Lift the Rock,
 26,Cube Puzzle,
-27,,
-28,,
-29,,
-30,,
-31,,
-32,,
-33,,
-34,,
+27,Offering Plate,Palm Fruit
+28,Offering Plate,Apple
+29,Lift the Rock,Under Rock Pile
+30,Lift the Rock,
+31,Rock Pattern,
+32,Ball and Chain,Well
+33,Melt the Ice,
+34,Lift the Rock,
 35,Pinwheel Balloons,
-36,Lift the Rock,Top of Tree
-37,Flying Acorns,
+36,Lift the Rock,
+37,Pinwheel Acorns,
 38,Lift the Rock,
-39,,
-40,,
+39,Cube Puzzle,
+40,Stationary Lights,Top of Flagpole
 41,Lift the Rock,
 42,Flower Trail,
 43,Circle of Rocks,
-44,,
-45,,
-46,,
-47,,
-48,Offering Plate,Apples
+44,Stationary Lights,Top of ZD Spout
+45,Offering Plate,Apple
+46,Flower Trail,
+47,Lift the Rock,Under Leaves
+48,Offering Plate,Apple
 49,Lift the Rock,Under Leaves
-50,,
+50,Offering Plate,Apple
 51,Roll a Boulder,Unique
 52,Lift the Rock,
-53,,
-54,,
-55,,
-56,,
-57,,
-58,,
-59,,
-60,,
-61,,
-62,,
+53,Stationary Lights,Top of Akkala Tech Lab
+54,Pinwheel Balloons,
+55,Lift the Rock,
+56,Stationary Lights,Top of Tech Lab
+57,Pinwheel Balloons,
+58,Cube Puzzle,
+59,Flower Trail,
+60,Pinwheel Balloons,
+61,Pinwheel Acorns,
+62,Dive,
 63,Circle of Rocks,
-64,,
-65,,
+64,Light the Torch,
+65,Dive,
 66,Cube Puzzle,
 67,Circle of Rocks,
-68,,
-69,Offering Plate,Apples
-70,,
+68,Lift the Rock,
+69,Offering Plate,Apple
+70,Lift the Rock,
 71,Lift the Rock,
-72,,
-73,,
-74,Stationary Lights,Top of Spire
-75,,
+72,Stationary Lights,Behind Two Statues
+73,Stationary Lights,Bridge of Hylia Fountain
+74,Stationary Lights,Zelda's Study Spire
+75,Stationary Lights,Top of Gerudo Town
 76,Cube Puzzle,
 77,Cube Puzzle,
-78,,
-79,,
-80,,
-81,,
-82,,
-83,,
-84,,
-85,,
-86,,
-87,,
-88,,
-89,,
-90,,
-91,,
-92,,
+78,Moving Lights,
+79,Melt the Ice,
+80,Melt the Ice,
+81,Pinwheel Acorns,
+82,Moving Lights,
+83,Cube Puzzle,
+84,Flower Trail,
+85,Goal Ring,
+86,Pinwheel Balloons,
+87,Rock Pattern,
+88,Rock Pattern,
+89,Flower Trail,
+90,Goal Ring,
+91,Circle of Rocks,
+92,Lift the Rock,
 93,Flower Order,
 94,Rock Pattern,
 95,Roll a Boulder,
@@ -102,562 +102,562 @@ Korok #,Type,Additional Info
 101,Goal Ring,
 102,Lift the Rock,Under Boulder
 103,Hanging Acorn,
-104,Ball and Chain,
-105,,
-106,,
-107,,
-108,,
-109,,
+104,Ball and Chain,Well
+105,Pinwheel Acorns,
+106,Roll a Boulder,
+107,Lift the Rock,Under Rock Pile
+108,Jump the Fences,
+109,Flower Trail,
 110,Pinwheel Balloons,
-111,,
+111,Lift the Rock,
 112,Dive,
 113,Lift the Rock,
-114,Acorn in Fallen Log,
+114,Acorn in a Hole,Fallen Log
 115,Lift the Rock,
 116,Lift the Rock,
 117,Moving Lights,
 118,Goal Ring,
 119,Hanging Acorn,
-120,,
+120,Lift the Rock,
 121,Lift the Rock,
 122,Cube Puzzle,
 123,Rock Pattern,
 124,Circle of Rocks,
 125,Circle of Rocks,
 126,Ball and Chain,Stump
-127,Acorn in Standing Tree,
+127,Acorn in a Hole,Standing Tree
 128,Lift the Rock,
 129,Dive,
 130,Cube Puzzle,
 131,Lift the Rock,
 132,Flower Trail,
-133,,
+133,Ball and Chain,Stump
 134,Lift the Rock,
 135,Lift the Rock,
 136,Offering Plate,Apples
 137,Lift the Rock,
 138,Lift the Rock,
-139,,
-140,,
+139,Lift the Rock,Under Slab
+140,Rock Pattern,
 141,Lift the Rock,
-142,,
+142,Lift the Rock,
 143,Matching Trees,
-144,,
+144,Lift the Rock,
 145,Cube Puzzle,
-146,,
-147,,
+146,Lift the Rock,
+147,Offering Plate,Hearty Durian
 148,Circle of Rocks,
 149,Stationary Balloon,
-150,Lift the Rock,Breakable boulders
-151,,
-152,,
-153,Stationary Balloon,In Tree
+150,Lift the Rock,Under Rock Pile
+151,Cube Puzzle,
+152,Flower Order,
+153,Stationary Balloon,
 154,Lift the Rock,
 155,Lift the Rock,
 156,Rock Pattern,
-157,Lift the Rock,Breakable boulders
+157,Lift the Rock,Under Rock Pile
 158,Rock Pattern,
-159,,
-160,,
-161,,
-162,,
-163,,
-164,,
+159,Rock Pattern,
+160,Circle of Rocks,
+161,Goal Ring,
+162,Moving Lights,
+163,Ball and Chain,Double Ball
+164,Matching Trees,Durian
 165,Circle of Rocks,
-166,,
-167,,
-168,,
-169,,
-170,,
-171,,
-172,,
-173,,
-174,,
-175,,
-176,,
-177,,
-178,,
-179,,
-180,,
+166,Lift the Rock,
+167,Cube Puzzle,
+168,Matching Trees,Voltfruit
+169,Moving Lights,
+170,Stationary Lights,Top of Bones
+171,Lift the Rock,
+172,Goal Ring,
+173,Rock Pattern,
+174,Matching Trees,Voltfruit
+175,Cube Puzzle,
+176,Cube Puzzle,
+177,Lift the Rock,
+178,Stationary Balloon,
+179,Lift the Rock,
+180,Lift the Rock,
 181,Pinwheel Balloons,
 182,Cube Puzzle,
 183,Rock Pattern,
-184,,
-185,,
-186,,
-187,,
-188,,
-189,,
-190,,
-191,,
-192,,
-193,,
-194,,
-195,,
-196,,
-197,,
-198,,
-199,,
-200,,
-201,,
-202,,
-203,,
+184,Lift the Rock,
+185,Lift the Rock,Under Rock Pile
+186,Rock Pattern,
+187,Cube Puzzle,
+188,Lift the Rock,
+189,Lift the Rock,
+190,Dive,
+191,Dive,
+192,Roll a Boulder,
+193,Lift the Rock,Under Slab
+194,Pinwheel Balloons,
+195,Lift the Rock,
+196,Rock Pattern,
+197,Offering Plate,Apples
+198,Flower Trail,
+199,Dive,
+200,Lift the Rock,
+201,Shoot the Crest,Kakariko
+202,Shoot the Crest,Kakariko
+203,Lift the Rock,
 204,Offering Plate,Apple
-205,Stationary Balloon,Under Medoh
-206,,
+205,Stationary Balloon,
+206,Stationary Lights,Top of Tree
 207,Lift the Rock,
 208,Lift the Rock,
 209,Matching Trees,Apple
 210,Dive,
-211,,
+211,Goal Ring,
 212,Roll a Boulder,
 213,Stationary Lights,Active via Pinwheel
 214,Lift the Rock,
-215,,
-216,,
-217,,
+215,Cube Puzzle,
+216,Pinwheel Acorns,
+217,Lift the Rock,
 218,Lift the Rock,
-219,,
+219,Lift the Rock,
 220,Roll a Boulder,Between Two Trees
-221,,
-222,,
-223,Acorn in Standing Tree,
-224,,
-225,,
-226,,
-227,,
-228,,
-229,,
-230,,
-231,,
-232,,
-233,,
-234,,
-235,,
-236,,
-237,,
-238,,
-239,,
-240,,
-241,,
-242,,
+221,Cube Puzzle,
+222,Circle of Rocks,
+223,Acorn in a Hole,Standing Tree
+224,Rock Pattern,
+225,Lift the Rock,Under Boulder
+226,Moving Lights,
+227,Cube Puzzle,
+228,Cube Puzzle,
+229,Pinwheel Balloons,
+230,Goal Ring,
+231,Offering Plate,Apple
+232,Rock Pattern,
+233,Roll a Boulder,
+234,Moving Lights,
+235,Rock Pattern,Large Metal Boxes
+236,Lift the Rock,
+237,Goal Ring,
+238,Flower Trail,
+239,Goal Ring,
+240,Acorn in a Hole,Fallen Log
+241,Flower Trail,
+242,Flower Trail,
 243,Rock Pattern,
-244,,
-245,Ball and Chain,
-246,,
-247,,
-248,,
-249,,
-250,,
-251,,
-252,,
-253,,
-254,,
-255,,
-256,,
-257,,
-258,,
-259,Lift the Rock,Breakable boulders
-260,Lift the Rock,Under medal door
-261,Lift the Rock,Top of Pillar
-262,,
-263,,
-264,,
-265,,
-266,,
-267,,
-268,,
-269,,
-270,,
-271,,
+244,Lift the Rock,Under Rock Pile
+245,Ball and Chain,Well
+246,Moving Lights,
+247,Cube Puzzle,
+248,Cube Puzzle,
+249,Goal Ring,
+250,Lift the Rock,
+251,Melt the Ice,
+252,Flower Trail,
+253,Flower Trail,
+254,Matching Trees,Voltfruit
+255,Flower Trail,
+256,Lift the Rock,
+257,Matching Trees,Voltfruit
+258,Lift the Rock,Under Door
+259,Lift the Rock,Under Rock Pile
+260,Lift the Rock,Under Door
+261,Lift the Rock,
+262,Moving Lights,
+263,Pinwheel Balloons,
+264,Dive,
+265,Lift the Rock,
+266,Flower Order,
+267,Matching Trees,Apple
+268,Ball and Chain,Stone Pillar
+269,Lift the Rock,
+270,Melt the Ice,
+271,Lift the Rock,
 272,Moving Lights,
-273,,
-274,,
-275,,
-276,,
+273,Goal Ring,
+274,Goal Ring,
+275,Offering Plate,Apple
+276,Cube Puzzle,
 277,Dive,
-278,,
-279,,
+278,Flower Trail,
+279,Moving Lights,
 280,Flower Trail,
-281,Lift the Rock,
+281,Lift the Rock,Under Leaves
 282,Rock Pattern,
 283,Dive,
 284,Goal Ring,
 285,Moving Lights,
-286,,
+286,Cube Puzzle,
 287,Circle of Rocks,
-288,Ball and Chain,
+288,Ball and Chain,Double Ball
 289,Flower Order,
-290,Lift the Rock,Breakable boulders
+290,Lift the Rock,Under Rock Pile
 291,Rock Pattern,
-292,,
-293,,
-294,,
-295,,
-296,,
-297,,
-298,,
-299,Lift the Rock,"Under malice, shoot eye"
+292,Stationary Lights,Top of Tree
+293,Roll a Boulder,
+294,Rock Pattern,
+295,Rock Pattern,
+296,Goal Ring,
+297,Dive,
+298,Cube Puzzle,
+299,Lift the Rock,
 300,Cube Puzzle,
 301,Cube Puzzle,
-302,,
-303,,
+302,Cube Puzzle,
+303,Lift the Rock,
 304,Lift the Rock,
-305,,
+305,Hanging Acorn,
 306,Rock Pattern,
-307,Ball and Chain,
+307,Ball and Chain,Stump
 308,Offering Plate,Apple
-309,Lift the Rock,Top of Stone Pillar
+309,Lift the Rock,
 310,Flower Order,
 311,Rock Pattern,
 312,Lift the Rock,
 313,Dive,
 314,Pinwheel Balloons,
 315,Offering Plate,Apple
-316,,
+316,Rock Pattern,
 317,Lift the Rock,
-318,Lift the Rock,Outside Zelda’s Room
+318,Lift the Rock,
 319,Pinwheel Balloons,
 320,Cube Puzzle,
 321,Flower Trail,
-322,,
-323,,
-324,,
-325,,
-326,,
-327,,
-328,,
-329,,
+322,Roll a Boulder,
+323,Lift the Rock,
+324,Circle of Rocks,
+325,Lift the Rock,
+326,Pinwheel Acorns,
+327,Lift the Rock,
+328,Stationary Lights,Top of Tree
+329,Matching Trees,Apple
 330,Lift the Rock,Under Leaves
-331,,
-332,,
-333,,
-334,,
-335,,
-336,,
-337,Stationary Lights,
-338,,
-339,,
-340,,
-341,,
-342,,
-343,,
+331,Offering Plate,Apple
+332,Roll a Boulder,
+333,Melt the Ice,
+334,Rock Pattern,Boulders
+335,Goal Ring,
+336,Rock Pattern,
+337,Stationary Lights,Top of Hut
+338,Lift the Rock,
+339,Goal Ring,
+340,Dive,
+341,Rock Pattern,
+342,Offering Plate,Durian
+343,Lift the Rock,
 344,Dive,
-345,,
-346,,
-347,,
-348,,
-349,,
-350,,
-351,,
-352,,
-353,,
+345,Lift the Rock,Under Rock Pile
+346,Moving Lights,
+347,Dive,
+348,Lift the Rock,
+349,Lift the Rock,
+350,Flower Trail,
+351,Flower Trail,
+352,Cube Puzzle,
+353,Goal Ring,
 354,Pinwheel Balloons,
 355,Goal Ring,
-356,Stationary Balloon,Next to bell near top
-357,Stationary Lights,Top of the world
-358,Stationary Lights,Top of Spire
-359,Hanging Acorn,Behind Breakable Wall
-360,,
-361,,
-362,,
-363,,
-364,,
-365,,
-366,,
-367,,
-368,,
-369,,
-370,,
-371,,
+356,Stationary Balloon,
+357,Stationary Lights,Hyrule Castle Spire
+358,Stationary Lights,Second Gatehouse Spire
+359,Hanging Acorn,
+360,Lift the Rock,Under Rock Pile
+361,Flower Order,
+362,Cube Puzzle,
+363,Rock Pattern,
+364,Stationary Balloon,
+365,Flower Order,
+366,Rock Pattern,
+367,Goal Ring,
+368,Lift the Rock,
+369,Dive,
+370,Ball and Chain,Stump
+371,Dive,
 372,Lift the Rock,
-373,,
-374,,
-375,,
-376,,
-377,,
-378,,
-379,,
-380,,
-381,,
-382,Lift the Rock,
+373,Ball and Chain,Stump
+374,Lift the Rock,Under Door
+375,Flower Trail,
+376,Dive,
+377,Flower Trail,
+378,Dive,
+379,Rock Pattern,
+380,Lift the Rock,
+381,Moving Lights,
+382,Lift the Rock,Under Rock Pile
 383,Roll a Boulder,
-384,,
+384,Matching Trees,Apple
 385,Rock Pattern,
-386,,
-387,,
+386,Acorn in a Hole,Standing Tree
+387,Lift the Rock,
 388,Lift the Rock,
-389,,
+389,Dive,
 390,Pinwheel Balloons,
-391,,
-392,,
-393,,
+391,Matching Trees,Apple
+392,Acorn in a Hole,Standing Tree
+393,Shoot the Targets,
 394,Lift the Rock,
-395,Lift the Rock,Under snowy hill formation
-396,,
-397,,
-398,,
-399,,
-400,,
+395,Lift the Rock,
+396,Roll a Boulder,
+397,Ball and Chain,Well
+398,Rock Pattern,
+399,Lift the Rock,Under Rock Pile
+400,Acorn in a Hole,Standing Tree
 401,Moving Lights,
 402,Flower Trail,
-403,,
-404,,
-405,,
-406,,
-407,,
-408,,
-409,,
-410,,
-411,,
-412,,
-413,,
-414,,
+403,Goal Ring,
+404,Flower Trail,
+405,Rock Pattern,
+406,Lift the Rock,
+407,Rock Pattern,
+408,Rock Pattern,
+409,Rock Pattern,
+410,Lift the Rock,
+411,Lift the Rock,
+412,Rock Pattern,
+413,Rock Pattern,
+414,Rock Pattern,
 415,Pinwheel Balloons,
 416,Melt the Ice,
 417,Rock Pattern,
 418,Pinwheel Balloons,
-419,Lift the Rock,Breakable boulders
-420,,
-421,,
-422,,
-423,,
-424,,
-425,,
-426,,
-427,,
-428,,
-429,,
+419,Lift the Rock,Under Rock Pile
+420,Flower Trail,
+421,Lift the Rock,Under Boulder
+422,Pinwheel Balloons,
+423,Moving Lights,
+424,Lift the Rock,
+425,Matching Trees,Apple
+426,Cube Puzzle,
+427,Ball and Chain,Well
+428,Lift the Rock,
+429,Moving Lights,
 430,Rock Pattern,
-431,,
-432,,
-433,,
-434,,
-435,,
-436,,
+431,Rock Pattern,
+432,Melt the Ice,
+433,Rock Pattern,
+434,Rock Pattern,
+435,Rock Pattern,
+436,Stationary Balloon,
 437,Cube Puzzle,
-438,,
-439,,
-440,,
+438,Lift the Rock,Under Slab
+439,Lift the Rock,Under Leaves
+440,Dive,
 441,Dive,
-442,,
-443,,
-444,,
-445,,
-446,,
-447,,
-448,,
-449,,
-450,,
-451,,
-452,,
-453,,
-454,,
-455,,
-456,,
-457,,
-458,,
+442,Goal Ring,
+443,Circle of Rocks,
+444,Stationary Lights,Top of Tree
+445,Dive,
+446,Rock Pattern,
+447,Lift the Rock,Under Leaves
+448,Dive,
+449,Lift the Rock,
+450,Lift the Rock,
+451,Matching Trees,Durian
+452,Goal Ring,
+453,Cube Puzzle,
+454,Pinwheel Balloons,
+455,Lift the Rock,
+456,Cube Puzzle,
+457,Circle of Rocks,
+458,Stationary Balloon,
 459,Hanging Acorn,
-460,,
-461,,
-462,,
-463,,
+460,Matching Trees,Apple
+461,Moving Lights,
+462,Lift the Rock,
+463,Flower Trail,
 464,Lift the Rock,
-465,,
-466,,
-467,,
-468,,
-469,,
-470,,
-471,,
+465,Flower Trail,
+466,Stationary Lights,Top of Zora's Domain
+467,Lift the Rock,Under Slab
+468,Cube Puzzle,
+469,Cube Puzzle,
+470,Stationary Balloon,
+471,Lift the Rock,
 472,Stationary Lights,Top of Flagpole
-473,,
-474,,
-475,,
-476,Flying Acorns,
-477,,
-478,,
-479,,
-480,,
-481,,
-482,,
-483,,
-484,,
-485,,
-486,Lift the Rock,Top of Tree
-487,,
-488,Matching Trees,
-489,,
-490,,
-491,,
+473,Roll a Boulder,Magnetic Boulder
+474,Flower Trail,
+475,Lift the Rock,
+476,Pinwheel Acorns,
+477,Cube Puzzle,
+478,Lift the Rock,Under Rock Pile
+479,Lift the Rock,Under Rock Pile
+480,Cube Puzzle,
+481,Moving Lights,
+482,Flower Trail,
+483,Lift the Rock,Under Leaves
+484,Rock Pattern,
+485,Lift the Rock,
+486,Lift the Rock,
+487,Lift the Rock,
+488,Matching Trees,Apple
+489,Lift the Rock,Under Slab
+490,Stationary Balloon,
+491,Flower Trail,
 492,Goal Ring,
 493,Lift the Rock,Under Boulder
 494,Lift the Rock,
 495,Pinwheel Balloons,
-496,,
-497,,
-498,,
-499,,
-500,,
-501,Stationary Lights,On building
-502,,
-503,,
-504,,
-505,,
+496,Lift the Rock,Under Door
+497,Circle of Rocks,
+498,Moving Lights,
+499,Cube Puzzle,
+500,Moving Lights,
+501,Stationary Lights,Top of Ruins
+502,Lift the Rock,Under Leaves
+503,Dive,
+504,Stationary Lights,Active via Pinwheel
+505,Rock Pattern,
 506,Stationary Balloon,
 507,Goal Ring,
-508,Stationary Lights,
-509,,
-510,,
-511,,
-512,,
-513,,
-514,,
-515,Ball and Chain,
-516,,
-517,,
-518,,
-519,,
-520,,
-521,,
-522,,
-523,,
-524,,
-525,,
-526,,
-527,,
-528,,
-529,,
-530,,
-531,,
-532,,
-533,,
-534,,
-535,,
-536,,
-537,,
-538,,
-539,,
-540,,
-541,,
-542,,
-543,,
-544,,
-545,,
-546,,
-547,,
-548,,
-549,,
-550,,
-551,,
-552,,
-553,,
-554,,
-555,,
-556,,
-557,,
-558,,
-559,,
-560,,
-561,,
-562,,
-563,,
-564,,
-565,,
-566,,
-567,,
-568,,
-569,,
-570,,
-571,,
-572,,
-573,,
-574,,
-575,,
-576,,
-577,,
+508,Stationary Lights,Inside Rock Cleft
+509,Goal Ring,
+510,Flower Trail,
+511,Roll a Boulder,
+512,Goal Ring,
+513,Pinwheel Balloons,
+514,Flower Trail,
+515,Ball and Chain,Well
+516,Flower Trail,
+517,Take Apple from Palm Tree,
+518,Matching Trees,Durian
+519,Offering Plate,Banana
+520,Burn the Leaves,
+521,Remove Luminous Stone,
+522,Lift the Rock,
+523,Rock Pattern,
+524,Goal Ring,
+525,Lift the Rock,Under Slab
+526,Circle of Rocks,
+527,Flower Trail,
+528,Stationary Balloon,
+529,Dive,
+530,Roll a Boulder,
+531,Rock Pattern,
+532,Dive,
+533,Lift the Rock,
+534,Cube Puzzle,
+535,Dive,
+536,Lift the Rock,
+537,Lift the Rock,Under Rock Pile
+538,Moving Lights,
+539,Stationary Lights,Top of Tree
+540,Lift the Rock,
+541,Cube Puzzle,
+542,Lift the Rock,Under Rock Pile
+543,Lift the Rock,
+544,Roll a Boulder,
+545,Acorn in a Hole,Standing Tree
+546,Lift the Rock,
+547,Stationary Balloon,
+548,Lift the Rock,Under Slab
+549,Take the Stick,
+550,Stationary Lights,Top of Tree
+551,Cube Puzzle,
+552,Lift the Rock,
+553,Goal Ring,
+554,Cube Puzzle,
+555,Ball and Chain,Stump
+556,Lift the Rock,
+557,Cube Puzzle,
+558,Moving Lights,
+559,Lift the Rock,
+560,Pinwheel Balloons,
+561,Roll a Boulder,
+562,Lift the Rock,Under Rock Pile
+563,Lift the Rock,
+564,Roll a Boulder,Unique
+565,Lift the Rock,
+566,Moving Lights,
+567,Moving Lights,
+568,Pinwheel Balloons,
+569,Rock Pattern,
+570,Goal Ring,
+571,Lift the Rock,Under Rock Pile
+572,Lift the Rock,Under Rock Pile
+573,Stationary Balloon,
+574,Acorn in a Hole,Fallen Log
+575,Stationary Lights,Top of Tree
+576,Hanging Acorn,
+577,Cube Puzzle,
 578,Pinwheel Balloons,
-579,Stationary Lights,Top of Dead Tree
+579,Stationary Lights,Top of Tree
 580,Pinwheel Balloons,
 581,Stationary Balloon,
 582,Lift the Rock,
 583,Lift the Rock,
 584,Goal Ring,
-585,,
-586,,
-587,Lift the Rock,Top of Tree
+585,Lift the Rock,
+586,Cube Puzzle,
+587,Lift the Rock,
 588,Cube Puzzle,
-589,,
-590,,
-591,,
-592,,
-593,,
-594,,
-595,,
-596,,
-597,,
-598,,
-599,,
-600,,
-601,,
-602,,
-603,,
-604,,
-605,,
-606,,
-607,,
-608,,
-609,,
-610,,
-611,,
+589,Stationary Balloon,
+590,Goal Ring,
+591,Stationary Lights,Top of Bones
+592,Stationary Lights,Top of Bones
+593,Rock Pattern,
+594,Flower Trail,
+595,Offering Plate,Banana
+596,Offering Plate,Banana
+597,Offering Plate,Banana
+598,Offering Plate,Banana
+599,Offering Plate,Banana
+600,Roll a Boulder,Snowball
+601,Cube Puzzle,
+602,Rock Pattern,
+603,Rock Pattern,
+604,Lift the Rock,
+605,Rock Pattern,
+606,Melt the Ice,
+607,Stationary Lights,Top of Tree
+608,Rock Pattern,
+609,Cube Puzzle,
+610,Lift the Rock,Under Rock Pile
+611,Lift the Rock,Under Leaves
 612,Rock Pattern,
 613,Cube Puzzle,
 614,Lift the Rock,
 615,Pinwheel Balloons,
-616,Cube Puzzle,
+616,Rock Pattern,
 617,Dive,
 618,Lift the Rock,
-619,,
-620,,
-621,,
+619,Lift the Rock,
+620,Stationary Balloon,
+621,Cube Puzzle,
 622,Melt the Ice,
 623,Melt the Ice,
 624,Melt the Ice,
-625,,
-626,Acorn in Standing Tree,
+625,Roll a Boulder,
+626,Acorn in a Hole,Standing Tree
 627,Pinwheel Balloons,
-628,Acorn in Standing Tree,
-629,Acorn in Fallen Log,
+628,Acorn in a Hole,Standing Tree
+629,Acorn in a Hole,Fallen Log
 630,Lift the Rock,Under Leaves
 631,Roll a Boulder,
 632,Lift the Rock,Under Leaves
 633,Goal Ring,
 634,Rock Pattern,
 635,Moving Lights,
-636,Roll a Boulder,Single
+636,Roll a Boulder,
 637,Pinwheel Balloons,
 638,Stationary Lights,Top of Flagpole
 639,Lift the Rock,
-640,,
-641,,
-642,Stationary Lights,
+640,Goal Ring,
+641,Lift the Rock,
+642,Stationary Lights,Top of Cabin
 643,Rock Pattern,
-644,,
-645,,
-646,,
+644,Rock Pattern,
+645,Roll a Boulder,
+646,Pinwheel Balloons,
 647,Melt the Ice,
-648,Lift the Rock,Top of Tree
+648,Lift the Rock,
 649,Hanging Acorn,
 650,Offering Plate,Apple
 651,Lift the Rock,
 652,Flower Trail,
-653,Lift the Rock,Under metal door
+653,Lift the Rock,Under Door
 654,Pinwheel Balloons,
-655,Pinwheel Balloons,Far away
+655,Pinwheel Balloons,
 656,Dive,
 657,Hanging Acorn,
-658,,
-659,,
+658,Moving Lights,
+659,Roll a Boulder,
 660,Pinwheel Balloons,
 661,Lift the Rock,Under Slab
 662,Rock Pattern,
@@ -666,50 +666,50 @@ Korok #,Type,Additional Info
 665,Cube Puzzle,
 666,Pinwheel Balloons,
 667,Lift the Rock,
-668,Acorn in Fallen Log,
-669,Lift the Rock,Between Pillars
+668,Acorn in a Hole,Fallen Log
+669,Lift the Rock,
 670,Offering Plate,Apples
 671,Rock Pattern,
-672,Lift the Rock,"Breakable boulders, down"
+672,Lift the Rock,Under Rock Pile
 673,Lift the Rock,
 674,Cube Puzzle,
 675,Cube Puzzle,
 676,Goal Ring,
 677,Stationary Lights,Top of Flagpole
 678,Lift the Rock,
-679,,
+679,Pinwheel Balloons,
 680,Cube Puzzle,
 681,Cube Puzzle,
 682,Roll a Boulder,
 683,Pinwheel Balloons,
-684,Stationary Balloon,In Tree
-685,Lift the Rock,
+684,Stationary Balloon,
+685,Lift the Rock,Under Leaves
 686,Flower Order,
 687,Offering Plate,Apple
 688,Lift the Rock,
 689,Stationary Lights,Top of Windmill
-690,Hanging Acorn,Under Windmill
+690,Hanging Acorn,
 691,Flower Trail,
 692,Hanging Acorn,
-693,,
+693,Pinwheel Balloons,
 694,Rock Pattern,
-695,Acorn in Standing Tree,
-696,Flying Acorns,
+695,Acorn in a Hole,Standing Tree
+696,Pinwheel Acorns,
 697,Roll a Boulder,
-698,Lift the Rock,Breakable boulders
-699,,
-700,,
-701,,
-702,,
-703,,
-704,Flying Acorns,
+698,Lift the Rock,Under Rock Pile
+699,Moving Lights,
+700,Flower Order,
+701,Lift the Rock,
+702,Goal Ring,
+703,Cube Puzzle,
+704,Pinwheel Acorns,
 705,Lift the Rock,
-706,Acorn in Standing Tree,
+706,Acorn in a Hole,Standing Tree
 707,Cube Puzzle,
 708,Lift the Rock,
 709,Hanging Acorn,
 710,Lift the Rock,
-711,Acorn in Standing Tree,
+711,Acorn in a Hole,Standing Tree
 712,Stationary Balloon,
 713,Hanging Acorn,
 714,Stationary Lights,Top of Flagpole
@@ -717,185 +717,185 @@ Korok #,Type,Additional Info
 716,Moving Lights,
 717,Lift the Rock,
 718,Offering Plate,Rusty Shield
-719,Acorn in Fallen Log,
-720,,
-721,Stationary Balloon,Near the water
+719,Acorn in a Hole,Fallen Log
+720,Dive,
+721,Stationary Balloon,
 722,Lift the Rock,
 723,Lift the Rock,
 724,Lift the Rock,
-725,Stationary Lights,Top of Dead Tree
+725,Stationary Lights,Top of Tree
 726,Lift the Rock,
 727,Lift the Rock,
 728,Moving Lights,
-729,Lift the Rock,Top of Tree
+729,Lift the Rock,
 730,Lift the Rock,
-731,,
+731,Goal Ring,
 732,Circle of Rocks,
-733,Lift the Rock,Breakable boulders
-734,Offering Plate,Spicy Pepper
+733,Lift the Rock,Under Rock Pile
+734,Offering Plate,Pepper
 735,Flower Order,
-736,,
-737,,
-738,,
-739,,
-740,,
-741,,
-742,,
-743,Lift the Rock,Breakable boulders
+736,Lift the Rock,Under Rock Pile
+737,Pinwheel Balloons,
+738,Matching Trees,Apple
+739,Lift the Rock,Under Boulder
+740,Stationary Lights,Top of Tree
+741,Moving Lights,
+742,Lift the Rock,
+743,Lift the Rock,Under Rock Pile
 744,Flower Trail,
 745,Goal Ring,
 746,Goal Ring,
 747,Lift the Rock,
 748,Lift the Rock,
 749,Goal Ring,
-750,Lift the Rock,"Breakable boulders, up"
+750,Lift the Rock,Under Rock Pile
 751,Lift the Rock,
-752,Stationary Lights,Top of Dead Tree
-753,Lift the Rock,Breakable boulders
-754,,
-755,Rock Pattern,Top of Tree
+752,Stationary Lights,Top of Tree
+753,Lift the Rock,Under Rock Pile
+754,Lift the Rock,Under Rock Pile
+755,Rock Pattern,
 756,Flower Trail,
 757,Goal Ring,
 758,Stationary Balloon,
 759,Stationary Balloon,
-760,Lift the Rock,Top of Goddess Statue
-761,Acorn in Standing Tree,
-762,Goal Ring,Top of Tree
+760,Lift the Rock,
+761,Acorn in a Hole,Standing Tree
+762,Goal Ring,
 763,Flower Order,
 764,Lift the Rock,Under Slab
 765,Goal Ring,
-766,Lift the Rock,Top of Tree
-767,,
+766,Lift the Rock,
+767,Stationary Balloon,
 768,Goal Ring,
-769,,
-770,Stationary Balloon,In Tree
-771,,
-772,Lift the Rock,Breakable boulders
+769,Matching Trees,Voltfruit
+770,Stationary Balloon,
+771,Cube Puzzle,
+772,Lift the Rock,Under Rock Pile
 773,Pinwheel Balloons,
 774,Lift the Rock,
 775,Pinwheel Balloons,
 776,Lift the Rock,
 777,Flower Trail,
 778,Goal Ring,
-779,Shoot Crest,
+779,Shoot the Crest,Hylian Symbol
 780,Goal Ring,
-781,,
-782,Lift the Rock,Behind shrine
-783,,
-784,,
-785,,
-786,Hanging Acorn,Corridor under first Gatehouse
-787,Offering Plate,Bird Egg
-788,Lift the Rock,Updraft shaft on ledge
-789,Lift the Rock,Top of Gate
+781,Moving Lights,
+782,Lift the Rock,
+783,Lift the Rock,
+784,Rock Pattern,
+785,Lift the Rock,
+786,Hanging Acorn,
+787,Offering Plate,Boiled Egg
+788,Lift the Rock,
+789,Lift the Rock,
 790,Flower Trail,
 791,Lift the Rock,Under Leaves
 792,Melt the Ice,
-793,Lift the Rock,Breakable boulders
+793,Lift the Rock,Under Rock Pile
 794,Lift the Rock,
-795,Horsejump over Fences,
+795,Jump the Fences,
 796,Moving Lights,
-797,,
-798,,
-799,,
-800,,
-801,,
-802,,
-803,,
-804,Acorn in Fallen Log,
+797,Lift the Rock,
+798,Matching Trees,Apple
+799,Rock Pattern,
+800,Lift the Rock,Under Slab
+801,Lift the Rock,Under Boulder
+802,Lift the Rock,
+803,Moving Lights,
+804,Acorn in a Hole,Fallen Log
 805,Goal Ring,
-806,Stationary Balloon,By the water
-807,Acorn in Fallen Log,
-808,,
-809,,
-810,,
-811,,
-812,,
-813,,
-814,,
+806,Stationary Balloon,
+807,Acorn in a Hole,Fallen Log
+808,Lift the Rock,Under Leaves
+809,Lift the Rock,Under Door
+810,Lift the Rock,Under Leaves
+811,Lift the Rock,Under Slab
+812,Lift the Rock,Under Rock Pile
+813,Lift the Rock,Under Rock Pile
+814,Stationary Lights,Top of Tree
 815,Pinwheel Balloons,
-816,,
-817,,
-818,,
-819,,
-820,,
-821,,
-822,,
-823,,
-824,Acorn in Fallen Log,
-825,,
+816,Moving Lights,
+817,Lift the Rock,Under Leaves
+818,Lift the Rock,Under Leaves
+819,Goal Ring,
+820,Lift the Rock,Under Rock Pile
+821,Goal Ring,
+822,Circle of Rocks,
+823,Cube Puzzle,
+824,Acorn in a Hole,Fallen Log
+825,Cube Puzzle,
 826,Lift the Rock,
 827,Pinwheel Balloons,
 828,Lift the Rock,
-829,Acorn in Fallen Log,
+829,Acorn in a Hole,Fallen Log
 830,Dive,
-831,Lift the Rock,Breakable boulders
-832,,
+831,Lift the Rock,Under Rock Pile
+832,Rock Pattern,
 833,Lift the Rock,Under Leaves
-834,,
-835,,
-836,,
+834,Roll a Boulder,
+835,Cube Puzzle,
+836,Circle of Rocks,
 837,Flower Trail,
 838,Flower Trail,
-839,Stationary Lights,
-840,Stationary Lights,
+839,Stationary Lights,Top of Tree
+840,Stationary Lights,Top of Tree
 841,Lift the Rock,
 842,Rock Pattern,
 843,Lift the Rock,
 844,Dive,
 845,Stationary Lights,Top of Tree
-846,Flying Acorns,
+846,Pinwheel Acorns,
 847,Melt the Ice,
-848,Stationary Balloon,Under a cliff
+848,Stationary Balloon,
 849,Lift the Rock,
 850,Melt the Ice,
 851,Lift the Rock,
-852,Stationary Lights,Top of Dead Tree
+852,Stationary Lights,Top of Tree
 853,Stationary Lights,Top of Tree
 854,Flower Trail,
 855,Lift the Rock,
-856,Roll a Boulder,
-857,Acorn in Fallen Log,
+856,Roll a Boulder,Snowball
+857,Acorn in a Hole,Fallen Log
 858,Lift the Rock,
 859,Moving Lights,
 860,Lift the Rock,
-861,,
-862,,
-863,,
-864,,
-865,,
-866,,
-867,,
-868,,
-869,,
-870,,
-871,,
-872,,
-873,,
-874,Acorn in Standing Tree,
-875,,
-876,,
-877,,
-878,,
-879,Shoot Crest,
+861,Rock Pattern,
+862,Lift the Rock,
+863,Lift the Rock,
+864,Lift the Rock,Under Rock Pile
+865,Pinwheel Balloons,
+866,Rock Pattern,
+867,Lift the Rock,Under Rock Pile
+868,Lift the Rock,
+869,Rock Pattern,
+870,Lift the Rock,
+871,Lift the Rock,
+872,Stationary Lights,Inside Goron Statue
+873,Stationary Lights,Top of Bones
+874,Acorn in a Hole,Standing Tree
+875,Lift the Rock,
+876,Roll a Boulder,
+877,Acorn in a Hole,Bridge
+878,Goal Ring,
+879,Shoot the Crest,Hyrule Castle
 880,Lift the Rock,
-881,Acorn in Standing Tree,
+881,Acorn in a Hole,Standing Tree
 882,Lift the Rock,
 883,Moving Lights,
-884,Acorn in Fallen Log,
-885,Acorn in Fallen Log,
-886,Acorn in Fallen Log,
-887,Lift the Rock,Breakable boulders
+884,Acorn in a Hole,Fallen Log
+885,Acorn in a Hole,Fallen Log
+886,Acorn in a Hole,Fallen Log
+887,Lift the Rock,Under Rock Pile
 888,Lift the Rock,
-889,Melt the Ice,East passage
-890,Lift the Rock,Breakable boulders
-891,Stationary Lights,Top of Spire
-892,,
+889,Melt the Ice,
+890,Lift the Rock,Under Rock Pile
+891,Stationary Lights,First Gatehouse Spire
+892,Lift the Rock,
 893,Circle of Rocks,
 894,Lift the Rock,
 895,Cube Puzzle,
-896,Lift the Rock,Breakable boulders
-897,,
-898,,
-899,,
+896,Lift the Rock,Under Rock Pile
+897,Lift the Rock,
+898,Matching Trees,Apple
+899,Hanging Acorn,
 900,Pinwheel Balloons,
