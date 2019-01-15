@@ -17,6 +17,7 @@ def rawtypetodict(rawtype):
     if (rawtype[1] == 'Lift the Rock' and rawtype[2] != ''):
         # the comment is always 'Under' something
         rawtype[1] = rawtype[1] + ' (' + rawtype[2][6:] + ')'
+        rawtype[2] = ''
     return (tid, rawtype)
 
 dicttypes = dict(rawtypetodict(x) for x in rawtypes[1:])
