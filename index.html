@@ -40,6 +40,9 @@
 		#filter {
 			width: 300px;
 		}
+		#korok-search-txt {
+			width: 60px;
+		}
 		.display-name {
 			font-style: italic;
 		}
@@ -81,6 +84,9 @@
 	<body>
 		<div id="botw_map"></div>
 		<div id="sidebar">
+			<div>
+				Search for ZD or Specs Number<input type="text" id="korok-search-txt"><button id="korok-search-btn">Go</button><button id="korok-search-remove-btn">Clear</button>
+			</div>
 		<!--
 			<div>
 				<select id="filter" data-placeholder="Filter by preset..." multiple></select><br>
@@ -122,41 +128,92 @@
 				var markers = {};
 
 				var locationMarkers = {};
+				var allMarkers = [];
+				var curSearchMarker = null;
 			    for (var i = 0;i<allkoroks.length;i++){
 			        curkorok = allkoroks[i];
 			        // put in region
 			        if (!(curkorok.region in locationMarkers)) {
 			            locationMarkers[curkorok.region] = [];
-		            }
-		            locationMarkers[curkorok.region].push(korokToMarker(curkorok));
+					}
+					var marker = korokToMarker(curkorok);
+					// get rid of "Seed"
+					marker.zdId = parseInt(curkorok.id.slice(4));
+					marker.specsID = curkorok.specsID;
+					marker.line = null;
+					marker.region = curkorok.region;
+					marker.type = curkorok.type;
+		            locationMarkers[curkorok.region].push(marker);
 		            if (curkorok.coords.length > 1) {
-		                locationMarkers[curkorok.region].push(L.polyline(curkorok.coords, {stroke: 1, color: '#FFF'}));
-	                }
+						marker.line = L.polyline(curkorok.coords, {stroke: 1, color: '#FFF'});
+		                locationMarkers[curkorok.region].push(marker.line);
+					}
+					allMarkers.push(marker);
 	                // put in type, ignore koroks that aren't typed yet
 	                if (curkorok.type) {
 	                    if (!(curkorok.type in locationMarkers)) {
 			                locationMarkers[curkorok.type] = [];
 		                }
-		                locationMarkers[curkorok.type].push(korokToMarker(curkorok));
+		                locationMarkers[curkorok.type].push(marker);
 		                if (curkorok.coords.length > 1) {
-		                    locationMarkers[curkorok.type].push(L.polyline(curkorok.coords, {stroke: 1, color: '#FFF'}));
+		                    locationMarkers[curkorok.type].push(marker.line);
 	                    }
 	                }
 			    }
 
 				// Note: in case we want to load the sidebar items asynchronously, using this style of event
 				// handler will apply to both current and future items
-				$('#sidebar > ul').on('change', 'input', function () {
+				$('#sidebar > ul').on('change', 'input', updateMarkers);
 
-					if ($(this).is(':checked')) {
-						for(var i = 0;i<locationMarkers[this.name].length;i++) {
-						    map.addLayer(locationMarkers[this.name][i]);
-					    }
-					} else {
-						for(var i = 0;i<locationMarkers[this.name].length;i++) {
-						    map.removeLayer(locationMarkers[this.name][i]);
-					    }
+				function updateMarkers() {
+					var curActiveList = $('#sidebar > ul')
+						.find('input')
+						.filter(function() {
+							return $(this).is(':checked');
+						})
+						.map(function() {
+							return this.name;
+						}
+					).toArray();
+					for (var i = 0;i<allMarkers.length;i++) {
+						var curMarker = allMarkers[i];
+						if (curSearchMarker == curMarker || curActiveList.includes(curMarker.region) || curActiveList.includes(curMarker.type)) {
+							map.addLayer(curMarker);
+							if (curMarker.line != null) {
+								map.addLayer(curMarker.line);
+							}
+						} else {
+							map.removeLayer(curMarker);
+							if (curMarker.line != null) {
+								map.removeLayer(curMarker.line);
+							}
+						}
 					}
+				}
+
+				$('#korok-search-btn').on('click', () => {
+					var newFound = null;
+					var searchText = $('#korok-search-txt').val();
+					for (var i = 0;i<allMarkers.length;i++) {
+						var curMarker = allMarkers[i];
+						if (curMarker.zdId == searchText || curMarker.specsID == searchText) {
+							newFound = curMarker;
+							break;
+						}
+						
+					}
+					if (newFound == null) {
+						return;
+					}
+					curSearchMarker = newFound;
+					updateMarkers();
+					map.panTo(curSearchMarker.getLatLng());
+					curSearchMarker.openPopup();
+				});
+
+				$('#korok-search-remove-btn').on('click', () => {
+					curSearchMarker = null;
+					updateMarkers();
 				});
 
 				var sidebarList = new List("sidebar", { valueNames: ['itemName'] });
@@ -214,7 +271,7 @@
 			        additionalInfo += '(' + korok.comment + ')';
 		        }
 			    return L.marker(curkorok.coords[0], {title: korok.id + ", " + korok.specsID + " (" + korok.region + ", " + korok.type + ")", icon: korokIcon})
-		                 .bindPopup('<a target="_blank" href="https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id='+curkorok.id+'">'+curkorok.id+'</a>' + additionalInfo)
+		                 .bindPopup('<a target="_blank" href="https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/?id='+curkorok.id+'">'+curkorok.id+'</a>,' + curkorok.specsID + additionalInfo)
 		    }
 		</script>
 	</body>
